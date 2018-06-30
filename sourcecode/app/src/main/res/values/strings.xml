@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+
+    <!--Region Screen-->
+    <string name="region_label">Region</string>
+    <string name="max_temp_label">Max Temp</string>
+    <string name="min_temp_label">Min Temp</string>
+    <string name="mean_temp_label">Mean Temp</string>
+    <string name="sunshine_label">Sunshine</string>
+    <string name="rainfall_label">Rainfall</string>
+    <string name="heading_stat">Weather Report</string>
+    <string name="view_label">View</string>
+
+
+    <!--Weather Report Screen-->
+    <string name="progress_text">Loading data</string>
+
+    <!--Home Screen-->
+    <string name="assignment_one">Assignment 1</string>
+    <string name="assignment_two">Assignment 2</string>
+
+
+    <!--Google maps api key-->
+    <string name="google_api_key">AIzaSyAGoFQCtKz4r-_akZ5errAsencInehQ8E0</string>
+
+    <!--Geometry list-->
+    <string name="geometry_list_heading">Geometry list</string>
+</resources>
